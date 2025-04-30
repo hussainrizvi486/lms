@@ -1,0 +1,25 @@
+{
+  "paths": {
+    "@components/*": [
+      "components/*"
+    ],
+    "@features/*": [
+      "features/*"
+    ],
+    "@utils/*": [
+      "utils/*"
+    ],
+    "@api": [
+      "api/*"
+    ]
+  },
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
